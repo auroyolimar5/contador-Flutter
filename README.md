@@ -1,7 +1,7 @@
-# prueba1
+# Contador
 
 Primer proyecto con flutter.
 
-## Getting Started
+## Primer proyecto
 
 Este primer proyecto es un sencillo contador, para empezar con flutter.
